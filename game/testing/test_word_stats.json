@@ -1,0 +1,359 @@
+{
+    "cios": {
+        "encounters": 3,
+        "incorrectly_typed_count": 0,
+        "best_time": 1.8600709438323975,
+        "average_time": 2.2294411659240723,
+        "times": [
+            2.8192737102508545,
+            1.8600709438323975,
+            2.008978843688965
+        ],
+        "passed_time_encounters": 0
+    },
+    "atak": {
+        "encounters": 3,
+        "incorrectly_typed_count": 0,
+        "best_time": 1.77213716506958,
+        "average_time": 1.8701014518737793,
+        "times": [
+            1.77213716506958,
+            1.949204444885254,
+            1.888962745666504
+        ],
+        "passed_time_encounters": 0
+    },
+    "unik": {
+        "encounters": 3,
+        "incorrectly_typed_count": 0,
+        "best_time": 1.6517393589019775,
+        "average_time": 1.7799253463745117,
+        "times": [
+            1.708237648010254,
+            1.6517393589019775,
+            1.9797990322113037
+        ],
+        "passed_time_encounters": 0
+    },
+    "kołczan": {
+        "encounters": 3,
+        "incorrectly_typed_count": 0,
+        "best_time": 2.188969612121582,
+        "average_time": 2.489170869191488,
+        "times": [
+            2.6084961891174316,
+            2.188969612121582,
+            2.670046806335449
+        ],
+        "passed_time_encounters": 0
+    },
+    "pancerz": {
+        "encounters": 3,
+        "incorrectly_typed_count": 0,
+        "best_time": 1.8270080089569092,
+        "average_time": 2.138848622639974,
+        "times": [
+            2.250985622406006,
+            2.338552236557007,
+            1.8270080089569092
+        ],
+        "passed_time_encounters": 0
+    },
+    "obrażenia": {
+        "encounters": 3,
+        "incorrectly_typed_count": 0,
+        "best_time": 2.0696492195129395,
+        "average_time": 2.579955498377482,
+        "times": [
+            2.0696492195129395,
+            3.0300114154815674,
+            2.6402058601379395
+        ],
+        "passed_time_encounters": 0
+    },
+    "przestrzelony": {
+        "encounters": 3,
+        "incorrectly_typed_count": 0,
+        "best_time": 2.817650556564331,
+        "average_time": 3.198009411493937,
+        "times": [
+            2.817650556564331,
+            3.2673497200012207,
+            3.5090279579162598
+        ],
+        "passed_time_encounters": 0
+    },
+    "broczący krwią": {
+        "encounters": 3,
+        "incorrectly_typed_count": 0,
+        "best_time": 3.7817537784576416,
+        "average_time": 4.711176077524821,
+        "times": [
+            5.520709753036499,
+            3.7817537784576416,
+            4.831064701080322
+        ],
+        "passed_time_encounters": 0
+    },
+    "ciężkozbrojny rycerz": {
+        "encounters": 3,
+        "incorrectly_typed_count": 0,
+        "best_time": 5.3371500968933105,
+        "average_time": 5.908554474512736,
+        "times": [
+            5.75886082649231,
+            6.629652500152588,
+            5.3371500968933105
+        ],
+        "passed_time_encounters": 0
+    },
+    "jakieś słowo": {
+        "encounters": 4,
+        "incorrectly_typed_count": 0,
+        "best_time": 3.2373430728912354,
+        "average_time": 3.7034258246421814,
+        "times": [
+            4.31957745552063,
+            4.018151760101318,
+            3.2373430728912354,
+            3.238631010055542
+        ],
+        "passed_time_encounters": 0
+    },
+    "blablabla": {
+        "encounters": 4,
+        "incorrectly_typed_count": 0,
+        "best_time": 3.269209861755371,
+        "average_time": 4.260295808315277,
+        "times": [
+            3.269209861755371,
+            4.0205700397491455,
+            4.201061248779297,
+            5.550342082977295
+        ],
+        "passed_time_encounters": 0
+    },
+    "poprzegryzany": {
+        "encounters": 3,
+        "incorrectly_typed_count": 1,
+        "best_time": 2.938486337661743,
+        "average_time": 4.058116277058919,
+        "times": [
+            3.9575955867767334,
+            2.938486337661743,
+            5.278266906738281
+        ],
+        "passed_time_encounters": 0
+    },
+    "majówka": {
+        "encounters": 3,
+        "incorrectly_typed_count": 0,
+        "best_time": 2.009490966796875,
+        "average_time": 2.590827226638794,
+        "times": [
+            2.0698702335357666,
+            2.009490966796875,
+            3.6931204795837402
+        ],
+        "passed_time_encounters": 0
+    },
+    "rżysko": {
+        "encounters": 3,
+        "incorrectly_typed_count": 0,
+        "best_time": 1.889934778213501,
+        "average_time": 2.1195127169291177,
+        "times": [
+            1.920654535293579,
+            1.889934778213501,
+            2.5479488372802734
+        ],
+        "passed_time_encounters": 0
+    },
+    "sky puppies": {
+        "encounters": 3,
+        "incorrectly_typed_count": 0,
+        "best_time": 2.6714558601379395,
+        "average_time": 3.269603411356608,
+        "times": [
+            2.6714558601379395,
+            2.997074842453003,
+            4.140279531478882
+        ],
+        "passed_time_encounters": 0
+    },
+    "ałć": {
+        "encounters": 3,
+        "incorrectly_typed_count": 0,
+        "best_time": 1.5907793045043945,
+        "average_time": 4.170051336288452,
+        "times": [
+            1.5907793045043945,
+            8.160363674163818,
+            2.7590110301971436
+        ],
+        "passed_time_encounters": 0
+    },
+    "kędy": {
+        "encounters": 3,
+        "incorrectly_typed_count": 0,
+        "best_time": 1.7392878532409668,
+        "average_time": 2.9696695804595947,
+        "times": [
+            1.7392878532409668,
+            4.949909448623657,
+            2.21981143951416
+        ],
+        "passed_time_encounters": 0
+    },
+    "Borges": {
+        "encounters": 3,
+        "incorrectly_typed_count": 0,
+        "best_time": 2.2217445373535156,
+        "average_time": 2.680821498235067,
+        "times": [
+            3.4205284118652344,
+            2.2217445373535156,
+            2.40019154548645
+        ],
+        "passed_time_encounters": 0
+    },
+    "this is sparta": {
+        "encounters": 3,
+        "incorrectly_typed_count": 0,
+        "best_time": 3.056378126144409,
+        "average_time": 3.5585787296295166,
+        "times": [
+            3.056378126144409,
+            3.9298465251922607,
+            3.68951153755188
+        ],
+        "passed_time_encounters": 0
+    },
+    "a test": {
+        "encounters": 3,
+        "incorrectly_typed_count": 0,
+        "best_time": 1.828462839126587,
+        "average_time": 2.168749968210856,
+        "times": [
+            2.5504941940307617,
+            1.828462839126587,
+            2.1272928714752197
+        ],
+        "passed_time_encounters": 0
+    },
+    "climate change": {
+        "encounters": 3,
+        "incorrectly_typed_count": 0,
+        "best_time": 2.431594133377075,
+        "average_time": 3.3613526026407876,
+        "times": [
+            3.3009538650512695,
+            2.431594133377075,
+            4.3515098094940186
+        ],
+        "passed_time_encounters": 0
+    },
+    "item1 and item2": {
+        "encounters": 3,
+        "incorrectly_typed_count": 1,
+        "best_time": 4.738001823425293,
+        "average_time": 5.14000924428304,
+        "times": [
+            4.890522718429565,
+            4.738001823425293,
+            5.791503190994263
+        ],
+        "passed_time_encounters": 0
+    },
+    "coils": {
+        "encounters": 3,
+        "incorrectly_typed_count": 0,
+        "best_time": 1.5611836910247803,
+        "average_time": 1.7585016091664631,
+        "times": [
+            1.7682006359100342,
+            1.5611836910247803,
+            1.9461205005645752
+        ],
+        "passed_time_encounters": 0
+    },
+    "communist manifesto": {
+        "encounters": 3,
+        "incorrectly_typed_count": 0,
+        "best_time": 4.288169860839844,
+        "average_time": 4.839843988418579,
+        "times": [
+            4.889782667160034,
+            4.288169860839844,
+            5.341579437255859
+        ],
+        "passed_time_encounters": 0
+    },
+    "my little pony": {
+        "encounters": 3,
+        "incorrectly_typed_count": 0,
+        "best_time": 3.2112767696380615,
+        "average_time": 4.119321425755818,
+        "times": [
+            4.288039207458496,
+            3.2112767696380615,
+            4.858648300170898
+        ],
+        "passed_time_encounters": 0
+    },
+    "niegdziebądź": {
+        "encounters": 3,
+        "incorrectly_typed_count": 0,
+        "best_time": 2.851102828979492,
+        "average_time": 3.6305696964263916,
+        "times": [
+            2.851102828979492,
+            3.1495752334594727,
+            4.89103102684021
+        ],
+        "passed_time_encounters": 0
+    },
+    "łódź": {
+        "encounters": 2,
+        "incorrectly_typed_count": 0,
+        "best_time": 3.119281053543091,
+        "average_time": 3.809484601020813,
+        "times": [
+            4.499688148498535,
+            3.119281053543091
+        ],
+        "passed_time_encounters": 0
+    },
+    "pacyfikacja wsi": {
+        "encounters": 2,
+        "incorrectly_typed_count": 0,
+        "best_time": 3.6265804767608643,
+        "average_time": 6.612895250320435,
+        "times": [
+            3.6265804767608643,
+            9.599210023880005
+        ],
+        "passed_time_encounters": 0
+    },
+    "minimalist materialist design": {
+        "encounters": 2,
+        "incorrectly_typed_count": 1,
+        "best_time": 5.250021457672119,
+        "average_time": 6.734455823898315,
+        "times": [
+            5.250021457672119,
+            8.218890190124512
+        ],
+        "passed_time_encounters": 0
+    },
+    "crimson": {
+        "encounters": 1,
+        "incorrectly_typed_count": 0,
+        "best_time": 3.5657618045806885,
+        "average_time": 3.5657618045806885,
+        "times": [
+            3.5657618045806885
+        ],
+        "passed_time_encounters": 0
+    }
+}

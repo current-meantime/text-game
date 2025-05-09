@@ -1,0 +1,11 @@
+{
+    "mode": "offline",
+    "skip_intro": false,
+    "skip_intro_on_replay": true,
+    "save_records": true,
+    "difficulty": "normal",
+    "registered_players": [
+        "Dev1",
+        "Dev2"
+    ]
+}
