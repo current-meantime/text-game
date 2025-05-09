@@ -2,7 +2,7 @@
 
 A text-based adventure game where typing speed and accuracy determine your success in combat.
 
-As of now, it is unfinished, only started in fact, and full of code and comments that will not stay in the final version but are suposed to be useful for other people in the team who will work on this project. Some of the files are empty.
+As of now, it is unfinished, only started in fact, and full of code and comments that will not stay in the final version but are suposed to be useful for other people in the team who will work on this project.
 
 ![intro display](intro.jpg)
 
